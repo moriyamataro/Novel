@@ -4,10 +4,10 @@
 - ライセンスは[MITライセンス](https://licenses.opensource.jp/MIT/MIT.html)
 
 # Usage
-## 1. テンプレートのレポジトリをクローン
-``
+## テンプレートのレポジトリをクローン
+```console
 git clone https://github.com/moriyamataro/novel.git
-``
+```
 - ローカルのPCに保存するだけの人は問題ないが、GitHubレポジトリなどを用いてリモートリポジトリで管理する人はプライベートリポジトリ（非公開）にして使うことを推奨。
 - 一番簡単なのは、GitHubのRepository templateの機能を使う方法である。このレポジトリをフォークして、SettingのところでTemplate repository にチェックを入れる。それ以降は作品を作るたびに、フォークしたレポジトリをテンプレートに指定して、Privateにチェックを入れて、レポジトリを立てれば良い
 
